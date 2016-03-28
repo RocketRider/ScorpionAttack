@@ -1,0 +1,8 @@
+Copyright (c) 2009 RocketRider
+
+Diese Software wird ohne ausdrückliche oder implizierte Garantie bereitgestellt. In keinem Fall können die Autoren für irgendwelche Schäden, die durch die Benutzung dieser Software entstanden sind, haftbar gemacht werden.
+
+Es ist jedem gestattet, diese Software für jeden Zweck, inklusive kommerzieller Anwendungen, zu benutzen, zu verändern und sie frei weiterzuverbreiten, sofern folgende Bedingungen erfüllt sind:
+Die Herkunft dieser Software darf nicht falsch dargestellt werden; Sie dürfen nicht angeben, dass Sie die ursprüngliche Software geschrieben haben. Wenn Sie diese Software in einem Produkt benutzten, würde eine Erwähnung geschätzt werden, sie ist aber nicht erforderlich.
+Veränderte Quelltextversionen müssen deutlich als solche gekennzeichnet werden und dürfen nicht als die Originalsoftware dargestellt werden.
+Diese Notiz darf in den Quelltexten nicht verändert oder gelöscht werden.
